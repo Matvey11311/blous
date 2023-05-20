@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+background-color: turquoise;
+width: 700px;
+height: 40px;
+padding-top:20px;
+
+}
+.link-header{
+    background-color: orange;
+    width: 35px;
+    height: 35px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    
+
+}
+h1{
+    color: lightgreen;
+}
+a:link{color: black;
+}
+a:visited{
+    color: firebrick;
+}
+
